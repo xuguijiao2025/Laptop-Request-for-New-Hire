@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="New Hire Laptop Pickup">5767f9a083e9aa10f980f1d6feaad3c4</sc_cat_item>
+        <sc_category display_value="Laptops">59f586f23731300054b6a3549dbe5db7</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-13 08:38:58</sys_created_on>
+        <sys_id>9a1b39e483e9aa10f980f1d6feaad3c8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Laptops.New Hire Laptop Pickup</sys_name>
+        <sys_package display_value="Laptop Request for New Hire" source="x_1642217_laptop_0">6c1655a783d56610f980f1d6feaad338</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Laptop Request for New Hire">6c1655a783d56610f980f1d6feaad338</sys_scope>
+        <sys_update_name>sc_cat_item_category_9a1b39e483e9aa10f980f1d6feaad3c8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-13 08:38:58</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Laptop Request for New Hire">6c1655a783d56610f980f1d6feaad338</application>
+        <file_path/>
+        <instance_id>755d98921bfef990fe1b43f4bd4bcbfd</instance_id>
+        <instance_name>dev230399</instance_name>
+        <name>sc_cat_item_category_9a1b39e483e9aa10f980f1d6feaad3c8</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="New Hire Laptop Pickup">5767f9a083e9aa10f980f1d6feaad3c4</sc_cat_item><sc_category display_value="Laptops">59f586f23731300054b6a3549dbe5db7</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-05-13 08:38:58</sys_created_on><sys_id>9a1b39e483e9aa10f980f1d6feaad3c8</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Laptops.New Hire Laptop Pickup</sys_name><sys_package display_value="Laptop Request for New Hire" source="x_1642217_laptop_0">6c1655a783d56610f980f1d6feaad338</sys_package><sys_policy/><sys_scope display_value="Laptop Request for New Hire">6c1655a783d56610f980f1d6feaad338</sys_scope><sys_update_name>sc_cat_item_category_9a1b39e483e9aa10f980f1d6feaad3c8</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-05-13 08:38:58</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>-1824001565</payload_hash>
+        <record_name>Laptops.New Hire Laptop Pickup</record_name>
+        <reverted_from/>
+        <source>a81655a783d56610f980f1d6feaad33d</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-13 08:38:58</sys_created_on>
+        <sys_id>de1b39e483e9aa10f980f1d6feaad3cc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>196c8cc0e2f0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-13 08:38:58</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>121b39e45ae9aa105bfaa68d067929cc</update_guid>
+        <update_guid_history>121b39e45ae9aa105bfaa68d067929cc:-1824001565</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Laptops.New Hire Laptop Pickup">557b712883e9aa10f980f1d6feaad30c</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-13 08:40:32</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>2f1c4f2a11f5414b90ec4d56c7bc6461</sys_id>
+        <sys_metadata>9a1b39e483e9aa10f980f1d6feaad3c8</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Laptops.New Hire Laptop Pickup</sys_name>
+        <sys_package display_value="Laptop Request for New Hire" source="x_1642217_laptop_0">6c1655a783d56610f980f1d6feaad338</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Laptop Request for New Hire">6c1655a783d56610f980f1d6feaad338</sys_scope>
+        <sys_scope_delete display_value="">0e9d6053a87d4cd58766fb4e8b20ca09</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_9a1b39e483e9aa10f980f1d6feaad3c8</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_9a1b39e483e9aa10f980f1d6feaad3c8">de1b39e483e9aa10f980f1d6feaad3cc</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-13 08:40:32</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="New Hire Laptop Pickup">5767f9a083e9aa10f980f1d6feaad3c4</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-13 08:41:48</sys_created_on>
+        <sys_id>c0cbf52883e9aa10f980f1d6feaad3e3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.New Hire Laptop Pickup</sys_name>
+        <sys_package display_value="Laptop Request for New Hire" source="x_1642217_laptop_0">6c1655a783d56610f980f1d6feaad338</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Laptop Request for New Hire">6c1655a783d56610f980f1d6feaad338</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_c0cbf52883e9aa10f980f1d6feaad3e3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-13 08:41:48</sys_updated_on>
+    </sc_cat_item_catalog>
+</record_update>

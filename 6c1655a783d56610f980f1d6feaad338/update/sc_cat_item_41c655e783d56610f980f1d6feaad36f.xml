@@ -4,7 +4,7 @@
         <active>true</active>
         <availability>on_desktop</availability>
         <billable>false</billable>
-        <category display_value="Laptops">59f586f23731300054b6a3549dbe5db7</category>
+        <category display_value="Can We Help You?">e15706fc0a0a0aa7007fc21e1ab70c2f</category>
         <checked_out>false</checked_out>
         <cost>0</cost>
         <custom_cart/>
@@ -14,7 +14,7 @@
         <description/>
         <display_price_property>non_zero</display_price_property>
         <entitlement_script/>
-        <flow_designer_flow display_value="Laptop Request for New Hire Flow">d0e4acd383dde210f980f1d6feaad308</flow_designer_flow>
+        <flow_designer_flow display_value="Laptop Request for New Hire flow">763b556f83d56610f980f1d6feaad30e</flow_designer_flow>
         <fulfillment_automation_level>unspecified</fulfillment_automation_level>
         <group/>
         <hide_sp>false</hide_sp>
@@ -65,21 +65,21 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2025-05-10 03:26:18</sys_created_on>
         <sys_id>41c655e783d56610f980f1d6feaad36f</sys_id>
-        <sys_mod_count>14</sys_mod_count>
+        <sys_mod_count>19</sys_mod_count>
         <sys_name>Laptop Request for New Hire</sys_name>
         <sys_package display_value="Laptop Request for New Hire" source="x_1642217_laptop_0">6c1655a783d56610f980f1d6feaad338</sys_package>
         <sys_policy/>
         <sys_scope display_value="Laptop Request for New Hire">6c1655a783d56610f980f1d6feaad338</sys_scope>
         <sys_update_name>sc_cat_item_41c655e783d56610f980f1d6feaad36f</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-05-10 11:58:05</sys_updated_on>
+        <sys_updated_on>2025-05-14 00:34:38</sys_updated_on>
         <taxonomy_topic/>
         <template/>
         <template_manager_roles/>
         <type>item</type>
         <use_sc_layout>true</use_sc_layout>
         <vendor/>
-        <version>14</version>
+        <version>19</version>
         <visible_bundle>true</visible_bundle>
         <visible_guide>true</visible_guide>
         <visible_standalone>true</visible_standalone>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="Laptop Request for New Hire">41c655e783d56610f980f1d6feaad36f</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-10 03:28:11</sys_created_on>
+        <sys_id>7837dde783d56610f980f1d6feaad37b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Laptop Request for New Hire</sys_name>
+        <sys_package display_value="Laptop Request for New Hire" source="x_1642217_laptop_0">6c1655a783d56610f980f1d6feaad338</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Laptop Request for New Hire">6c1655a783d56610f980f1d6feaad338</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_7837dde783d56610f980f1d6feaad37b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-10 03:28:11</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Laptop Request for New Hire">6c1655a783d56610f980f1d6feaad338</application>
+        <file_path/>
+        <instance_id>755d98921bfef990fe1b43f4bd4bcbfd</instance_id>
+        <instance_name>dev230399</instance_name>
+        <name>sc_cat_item_catalog_7837dde783d56610f980f1d6feaad37b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="Laptop Request for New Hire">41c655e783d56610f980f1d6feaad36f</sc_cat_item><sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-05-10 03:28:11</sys_created_on><sys_id>7837dde783d56610f980f1d6feaad37b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Service Catalog.Laptop Request for New Hire</sys_name><sys_package display_value="Laptop Request for New Hire" source="x_1642217_laptop_0">6c1655a783d56610f980f1d6feaad338</sys_package><sys_policy/><sys_scope display_value="Laptop Request for New Hire">6c1655a783d56610f980f1d6feaad338</sys_scope><sys_update_name>sc_cat_item_catalog_7837dde783d56610f980f1d6feaad37b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-05-10 03:28:11</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>-919637854</payload_hash>
+        <record_name>Service Catalog.Laptop Request for New Hire</record_name>
+        <reverted_from/>
+        <source>a81655a783d56610f980f1d6feaad33d</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-10 03:28:11</sys_created_on>
+        <sys_id>bc37dde783d56610f980f1d6feaad37e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>196b83c74690000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-10 03:28:11</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>fc37dde756d566106ef3f9931aeed77d</update_guid>
+        <update_guid_history>fc37dde756d566106ef3f9931aeed77d:-919637854</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Service Catalog.Laptop Request for New Hire">c5a7192b83d56610f980f1d6feaad3f6</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-10 03:30:07</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>07222c36b64b43209323349adc618100</sys_id>
+        <sys_metadata>7837dde783d56610f980f1d6feaad37b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Laptop Request for New Hire</sys_name>
+        <sys_package display_value="Laptop Request for New Hire" source="x_1642217_laptop_0">6c1655a783d56610f980f1d6feaad338</sys_package>
+        <sys_parent display_value="Laptop Request for New Hire">41c655e783d56610f980f1d6feaad36f</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Laptop Request for New Hire">6c1655a783d56610f980f1d6feaad338</sys_scope>
+        <sys_scope_delete display_value="">0e9d6053a87d4cd58766fb4e8b20ca09</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_7837dde783d56610f980f1d6feaad37b</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_7837dde783d56610f980f1d6feaad37b">bc37dde783d56610f980f1d6feaad37e</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-10 03:30:07</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

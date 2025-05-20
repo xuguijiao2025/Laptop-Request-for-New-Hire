@@ -2,7 +2,7 @@
     <item_option_new action="INSERT_OR_UPDATE">
         <active>true</active>
         <attributes/>
-        <cat_item display_value="Laptop Request for New Hire">41c655e783d56610f980f1d6feaad36f</cat_item>
+        <cat_item display_value="New Hire Laptop Pickup">5767f9a083e9aa10f980f1d6feaad3c4</cat_item>
         <category/>
         <choice_direction>down</choice_direction>
         <choice_field/>
@@ -28,42 +28,38 @@
         <help_text/>
         <hidden>false</hidden>
         <include_none>false</include_none>
-        <instructions><![CDATA[<p>Please select the model of laptop.</p>]]></instructions>
+        <instructions><![CDATA[<p>Please enter the name of the new employee.</p>]]></instructions>
         <layout>normal</layout>
         <list_table/>
-        <lookup_label/>
+        <lookup_label>accumulated_roles</lookup_label>
         <lookup_price/>
-        <lookup_table/>
+        <lookup_table>sys_user</lookup_table>
         <lookup_unique>false</lookup_unique>
-        <lookup_value/>
+        <lookup_value>accumulated_roles</lookup_value>
         <macro/>
         <macroponent/>
         <mandatory>true</mandatory>
         <map_to_field>false</map_to_field>
         <mask_use_confirmation>false</mask_use_confirmation>
         <mask_use_encryption>false</mask_use_encryption>
-        <name>laptop_model</name>
+        <name>assign_to</name>
         <not_available_conversation>false</not_available_conversation>
         <order>200</order>
         <post_insert_script/>
         <price_if_checked>0</price_if_checked>
         <pricing_implications>false</pricing_implications>
         <published_ref/>
-        <question_text>Laptop model </question_text>
+        <question_text>Assign to</question_text>
         <read_only>false</read_only>
         <read_roles/>
         <read_script/>
         <rec_lookup_price/>
         <rec_price_if_checked>0</rec_price_if_checked>
         <record/>
-        <record_producer_table/>
-        <reference>alm_hardware</reference>
-        <reference_qual>assigned_toISEMPTY^install_status=6^quantity&gt;0^substatus=available</reference_qual>
-        <reference_qual_condition table="alm_hardware">assigned_toISEMPTY^install_status=6^quantity&gt;0^substatus=available<item endquery="false" field="assigned_to" goto="false" newquery="false" operator="ISEMPTY" or="false" value=""/>
-            <item display_value="In stock" endquery="false" field="install_status" goto="false" newquery="false" operator="=" or="false" value="6"/>
-            <item endquery="false" field="quantity" goto="false" newquery="false" operator="&gt;" or="false" value="0"/>
-            <item display_value="Available" endquery="false" field="substatus" goto="false" newquery="false" operator="=" or="false" value="available"/>
-        </reference_qual_condition>
+        <record_producer_table>alm_hardware</record_producer_table>
+        <reference/>
+        <reference_qual/>
+        <reference_qual_condition/>
         <rich_text/>
         <roles_to_use_also_request_for/>
         <save_script><![CDATA[/** This script is executed before the Record is generated
@@ -75,26 +71,26 @@
 */]]></save_script>
         <scale_max>5</scale_max>
         <scale_min>0</scale_min>
-        <show_help>true</show_help>
+        <show_help>false</show_help>
         <show_help_on_load>false</show_help_on_load>
         <sp_widget/>
         <summary_macro/>
         <sys_class_name>item_option_new</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2025-05-10 03:34:25</sys_created_on>
-        <sys_id>7938dd2b83d56610f980f1d6feaad301</sys_id>
-        <sys_mod_count>4</sys_mod_count>
-        <sys_name>Laptop model </sys_name>
+        <sys_created_on>2025-05-13 08:37:44</sys_created_on>
+        <sys_id>f8baf1e083e9aa10f980f1d6feaad39b</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Assign to</sys_name>
         <sys_package display_value="Laptop Request for New Hire" source="x_1642217_laptop_0">6c1655a783d56610f980f1d6feaad338</sys_package>
         <sys_policy/>
         <sys_scope display_value="Laptop Request for New Hire">6c1655a783d56610f980f1d6feaad338</sys_scope>
-        <sys_update_name>item_option_new_7938dd2b83d56610f980f1d6feaad301</sys_update_name>
-        <sys_updated_by>Manager001</sys_updated_by>
-        <sys_updated_on>2025-05-12 12:05:08</sys_updated_on>
+        <sys_update_name>item_option_new_f8baf1e083e9aa10f980f1d6feaad39b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-14 01:01:00</sys_updated_on>
         <table/>
         <tooltip/>
         <topic_block/>
-        <type>8</type>
+        <type>18</type>
         <ui_page/>
         <unique>false</unique>
         <use_dynamic_default>false</use_dynamic_default>
@@ -110,22 +106,22 @@
         <visible_summary>true</visible_summary>
         <write_roles/>
     </item_option_new>
-    <sys_translated_text action="delete_multiple" query="documentkey=7938dd2b83d56610f980f1d6feaad301"/>
-    <fx_price action="delete_multiple" query="id=7938dd2b83d56610f980f1d6feaad301"/>
+    <sys_translated_text action="delete_multiple" query="documentkey=f8baf1e083e9aa10f980f1d6feaad39b"/>
+    <fx_price action="delete_multiple" query="id=f8baf1e083e9aa10f980f1d6feaad39b"/>
     <fx_price action="INSERT_OR_UPDATE">
         <amount>0</amount>
         <currency display_value="USD">USD</currency>
         <field>price_if_checked</field>
-        <id>7938dd2b83d56610f980f1d6feaad301</id>
+        <id>f8baf1e083e9aa10f980f1d6feaad39b</id>
         <parent/>
         <reference_amount>0</reference_amount>
         <reference_currency display_value="USD">USD</reference_currency>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2025-05-10 03:34:25</sys_created_on>
-        <sys_id>cca81d6b83d56610f980f1d6feaad3e9</sys_id>
+        <sys_created_on>2025-05-13 08:37:44</sys_created_on>
+        <sys_id>d8da31e483e9aa10f980f1d6feaad3d2</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-05-10 03:34:25</sys_updated_on>
+        <sys_updated_on>2025-05-13 08:37:44</sys_updated_on>
         <table>item_option_new</table>
         <type>calculated</type>
     </fx_price>
@@ -133,16 +129,16 @@
         <amount>0</amount>
         <currency display_value="USD">USD</currency>
         <field>rec_price_if_checked</field>
-        <id>7938dd2b83d56610f980f1d6feaad301</id>
+        <id>f8baf1e083e9aa10f980f1d6feaad39b</id>
         <parent/>
         <reference_amount>0</reference_amount>
         <reference_currency display_value="USD">USD</reference_currency>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2025-05-10 03:34:25</sys_created_on>
-        <sys_id>80a81d6b83d56610f980f1d6feaad3e9</sys_id>
+        <sys_created_on>2025-05-13 08:37:44</sys_created_on>
+        <sys_id>9cda31e483e9aa10f980f1d6feaad3d1</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-05-10 03:34:25</sys_updated_on>
+        <sys_updated_on>2025-05-13 08:37:44</sys_updated_on>
         <table>item_option_new</table>
         <type>calculated</type>
     </fx_price>
